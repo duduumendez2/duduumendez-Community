@@ -11,9 +11,9 @@ button {
     user-select: none;
     -webkit-user-select: none;
     touch-action: manipulation;
-    width: 700px;
-    height: 1 00px;
-    size:auto;
+    max-width: 100px;
+    height: auto;
+    
   }
   
   button:before {
