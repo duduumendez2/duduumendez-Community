@@ -13,6 +13,7 @@ button {
     touch-action: manipulation;
     width: 700px;
     height: 1 00px;
+    size:auto;
   }
   
   button:before {
