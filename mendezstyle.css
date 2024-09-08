@@ -90,9 +90,9 @@ button {
   p {
     color: gold;
     font-family: arial;
-    position: absolute;
+    /*position: absolute;
     top: 10%;
-    left: 30%;
+    left: 30%;*/
     /*transform: translate(-50%, -50%)*/
   }
 
